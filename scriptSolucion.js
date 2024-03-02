@@ -279,9 +279,3 @@ document.addEventListener("DOMContentLoaded", function () {
     horaInput.addEventListener("blur", validarHora);
 });
 
-
-/*
-Pedir confirmación de envío del formulario. Si se confirma el envío realizará el envío de los datos; en
-otro caso cancelará el envío
-*/
-
